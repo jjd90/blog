@@ -22,12 +22,9 @@ title: Juan CIT 480 Blog
 email: juan.delgado.82@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog for CIT 480 where ill be posting my blogs for the course. 
-  I hope you all enjoy my first ever github page.You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I hope you all enjoy my first ever github page.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://jjd90.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  jjd90
 
 # Build settings
