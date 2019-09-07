@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Firt Blog Post"
+title:  "First Blog Post"
 date:   2019-09-06 22:55:00 -0800
 categories: Blog
 ---
