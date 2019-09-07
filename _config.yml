@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Juan CIT 480 Blog
-email: juan.delgado.82@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog for CIT 480 where ill be posting my blogs for the course. 
   I hope you all enjoy my first ever github page.
