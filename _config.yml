@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Juan CIT 480 Blog
+title: Juan's CIT 480 Blog
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog for CIT 480 where ill be posting my blogs for the course. 
   I hope you all enjoy my first ever github page.
