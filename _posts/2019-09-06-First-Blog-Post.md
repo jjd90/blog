@@ -4,5 +4,8 @@ title:  "Firt Blog Post"
 date:   2019-09-06 22:55:00 -0800
 categories: Blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+Welcome to my first blog post!
+
+My name is Juan and i am currently a senior majoring in CIT. For this blog post I will be writing about my experience in trying to accomplisg the first lab. Like most students the process was smooth up until page 9 that when the dreeded error messages began. 
 
